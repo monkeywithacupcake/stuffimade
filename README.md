@@ -73,6 +73,19 @@ Social Majik is designed for the small business owner, solopreneur, or other bus
 #### Learn More
 See a video of version 1.0 [Social Majik iOS](https://majikproductions.github.io/social-majik/)
 
+### Tapper
+#### Status
+On Github
+
+#### What it Does
+A simple iOS application that displays a local notification
+
+#### Stack
+- User Notification Center
+
+#### Learn More
+You can play with the code and learn how to do it right here on Github [Test Local Notifications with Tapper](https://github.com/monkeywithacupcake/testlocalnotification)
+
 ## CodePen Fun
 I play around with new ideas on Codepen. Here are a few. You can [see all my pens on CodePen](https://codepen.io/jessachandler/) 
 
@@ -87,3 +100,8 @@ Using Javascript to select items with click and double click.
 ### Simply Weather 
 I built this based on a Free Code Camp project. Using Locations and FCC Weather API - Also has a few suggestions based on the weather returned and time of day.
 [Simply Weather](https://codepen.io/jessachandler/pen/qjeWRM)
+
+## Gists
+Gists are a great way to stash code and probably never look at it again. 
+### [Encourage Me](https://gist.github.com/monkeywithacupcake/619664e95468fb59360555e0f79a9ed7) - Random string in shell 
+### [Catch Phrase Maker](https://gist.github.com/monkeywithacupcake/9e0092733302668b2a4adbbfb1d35748) - Makes an image with a catchphrase, requires ImageMagick 
