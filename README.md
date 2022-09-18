@@ -1,5 +1,33 @@
 # Stuff I Made
-A simple list of some things I've made (besides blogs..those are everywhere). It's so fun to create things that I honestly lose track once I usher things out into the world unless I maintain them for some purpose. To that end, the iOS Apps are very easy to track - Apple tells me about them every week. And, well, I'm all over Gifts Done because that is my baby. 
+A simple list of some things I've made (besides blogs..those are everywhere). It's so fun to create things that I honestly lose track once I usher things out into the world unless I maintain them for some purpose. To that end, the iOS Apps are very easy to track - Apple tells me about them every week. I closed Gifts Done in 2021 and sent last gifts in summer 2022. 
+
+## Data Science
+
+### Washington State COVID tracker
+
+#### Status
+No longer updated. 
+
+I was updating daily here in [my covid wa github repo](https://github.com/monkeywithacupcake/covid-19-wa). The repo powered a [codepen](https://codepen.io/jessachandler/pen/zYGEbRK) that showed how cases and deaths were tracking over time by county.
+
+#### What it does
+I made a tracker when I felt like the details were not being tracked before the state rolled out the Tableau. Before that, there was no way to see trends or get a broader picture.
+
+#### Stack
+R
+javascript
+
+### Kitsap County Bike Map
+
+#### Status
+Actively building and growing.
+
+#### What it does
+Shows a map with pictures and details of places to park a bike in Kitsap County. There is an RPub and a Google Map Layer, so folks can use it on the go to find nearest bike parking.
+
+#### Stack
+Human (humans have to do a heavy lift here of identifying bike parking and taking pictures + adding to a google map is manual)
+R
 
 ## Web App
 I wanted to put my programming skills to use and make a real thing.  
@@ -7,7 +35,8 @@ I wanted to put my programming skills to use and make a real thing.
 ### Gifts Done ![JS](https://img.shields.io/badge/language-js-green.svg)
 
 #### Status 
-Gifts Done is live and working - we have fantastic reviews and I love making people happy with this application. [Gifts Done](https://www.gifts-done.com/)
+Closed no longer maintained
+~Gifts Done is live and working - we have fantastic reviews and I love making people happy with this application. [Gifts Done](https://www.gifts-done.com/)~
 
 #### What it does
 Gifts Done is a two sided platform that has users and suppliers who log in to individual dashboards. Users see their giftees and the progress of their gifts (automated gifting) and suppliers see the gifts that they have accepted responsibility for making. When Suppliers finish gifts, the images, prices, and details for items are emailed and updated for the user. Payments are handled through Stripe.
